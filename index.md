@@ -9,7 +9,7 @@ Newly furnished.
 Rent: 450 euro/month
 
 Contact: 
-00 359 886 964 932 
+00 359 886 964 932 / 
 
 dmollova@gmail.com
 

@@ -12,8 +12,6 @@ Rent: 450 euro/month
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/66694076/84188528-6ab3a680-aa9c-11ea-8b56-22999845af6d.png">
 
-<img width="451" alt="image" src="https://user-images.githubusercontent.com/66694076/84188980-2543a900-aa9d-11ea-99af-f3a3c738b1ba.png">
-
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/66694076/84188539-7010f100-aa9c-11ea-964b-7792fc880917.png">
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/66694076/84188555-7606d200-aa9c-11ea-8668-c85098463bb6.png">
@@ -23,6 +21,8 @@ Rent: 450 euro/month
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/66694076/84188564-7b641c80-aa9c-11ea-9981-996e3778069d.png">
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/66694076/84188573-80c16700-aa9c-11ea-941d-d4a05152b082.png">
+
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/66694076/84188980-2543a900-aa9d-11ea-99af-f3a3c738b1ba.png">
 
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/66694076/84188593-874fde80-aa9c-11ea-8228-01bf0303c8b6.png">
 

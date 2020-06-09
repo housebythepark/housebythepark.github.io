@@ -1,4 +1,4 @@
-# A beautiful cozy apartment for rent in city center.
+# A House By the Park.
 
 Renting a 60 sq.m. beautiful cozy apartment in the heart of the city, facing Zaimov park, less than a minute away from Doctor’s garden and Oborishte Str., 4 minutes from Sofia University, just next to Casa Vino Liquor Store 🙂
 
